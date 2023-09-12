@@ -1,0 +1,51 @@
+E:\imeth\code\apiit-code\WDOS\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+E:\imeth\code\apiit-code\WDOS\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.SuggestedBindingRedirects.cache
+E:\imeth\code\apiit-code\WDOS\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+E:\imeth\code\apiit-code\WDOS\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+E:\imeth\code\apiit-code\WDOS\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+E:\imeth\code\apiit-code\WDOS\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+E:\imeth\code\apiit-code\WDOS\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+E:\imeth\code\apiit-code\WDOS\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+E:\imeth\code\apiit-code\WDOS\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+E:\imeth\code\apiit-code\WDOS\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+E:\imeth\code\apiit-code\WDOS\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+E:\imeth\code\apiit-code\WDOS\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Tutor.resources
+E:\imeth\code\apiit-code\WDOS\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.CreateQuiz.resources
+E:\imeth\code\apiit-code\WDOS\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.AddQuestions.resources
+E:\imeth\code\apiit-code\WDOS\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.QuizView.resources
+E:\imeth\code\apiit-code\WDOS\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.TutorSelectSubject.resources
+E:\imeth\code\apiit-code\WDOS\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.RegistrationForm.resources
+E:\SDAM submit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+E:\SDAM submit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.SuggestedBindingRedirects.cache
+E:\SDAM submit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.AddQuestions.resources
+E:\SDAM submit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.CreateQuiz.resources
+E:\SDAM submit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+E:\SDAM submit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+E:\SDAM submit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.QuizView.resources
+E:\SDAM submit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.RegistrationForm.resources
+E:\SDAM submit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Tutor.resources
+E:\SDAM submit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.TutorSelectSubject.resources
+E:\SDAM submit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+E:\SDAM submit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+E:\SDAM submit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+E:\SDAM submit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+E:\SDAM submit\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+E:\SDAM submit\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+E:\SDAM submit\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+F:\SDAM submit\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+F:\SDAM submit\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+F:\SDAM submit\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+F:\SDAM submit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+F:\SDAM submit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.SuggestedBindingRedirects.cache
+F:\SDAM submit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.AddQuestions.resources
+F:\SDAM submit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.CreateQuiz.resources
+F:\SDAM submit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+F:\SDAM submit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+F:\SDAM submit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.QuizView.resources
+F:\SDAM submit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.RegistrationForm.resources
+F:\SDAM submit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Tutor.resources
+F:\SDAM submit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.TutorSelectSubject.resources
+F:\SDAM submit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+F:\SDAM submit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+F:\SDAM submit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+F:\SDAM submit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
